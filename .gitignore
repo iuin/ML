@@ -87,6 +87,7 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
+.idea/
 .env
 .venv
 env/
@@ -112,3 +113,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/workspace.xml
